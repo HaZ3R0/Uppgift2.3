@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift2.3", "Uppgift2.3\Uppgift2.3.csproj", "{87DAE3B2-2C6E-4551-927F-42D160123A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DAE3B2-2C6E-4551-927F-42D160123A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DAE3B2-2C6E-4551-927F-42D160123A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DAE3B2-2C6E-4551-927F-42D160123A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DAE3B2-2C6E-4551-927F-42D160123A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615D2105-242D-4153-A74B-79C29B454D7C}
+	EndGlobalSection
+EndGlobal
